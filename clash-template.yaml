@@ -18,7 +18,7 @@ allow-lan: false
 # Rule / Global / Direct (默认为 Rule 模式)
 mode: Rule
 
-# 设置输出日志的等级 (默认为 info)
+#  设置输出日志的等级 (默认为 info)
 # info / warning / error / debug / silent
 log-level: info
 
