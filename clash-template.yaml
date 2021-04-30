@@ -122,12 +122,12 @@ proxies:
     #   custom: value
 
 # VMess
-- name: "v2ray"
+- name: "v2ray-日本"
   type: vmess
   server: server
-  port: 443
-  uuid: a3482e88-686a-4a58-8126-99c9df64b7bf
-  alterId: 64
+  port: 28483
+  uuid: 1add6694-b56f-4162-b7da-d899612b0608
+  alterId: 0
   cipher: auto
   # udp: true
   # tls: true
