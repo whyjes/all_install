@@ -122,7 +122,7 @@ proxies:
     #   custom: value
 
 # VMess
-- name: "v2ray"
+- name: "V2ray"
   type: vmess
   server: server
   port: 28483
