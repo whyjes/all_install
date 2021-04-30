@@ -122,7 +122,7 @@ proxies:
     #   custom: value
 
 # VMess
-- name: "V2ray"
+- name: "v2ray"
   type: vmess
   server: server
   port: 28483
@@ -161,7 +161,7 @@ proxy-groups:
     - "ss"
     - "ss-obfs"
     - "ss-v2ray"
-    - "V2ray"
+    - "v2ray"
     - "trojan"
   url: 'http://www.gstatic.com/generate_204'
   interval: 300
